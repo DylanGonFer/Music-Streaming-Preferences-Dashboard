@@ -1,4 +1,40 @@
+# 🎵 Music Streaming Preference Analysis
 
+This repository contains an analysis of listener preferences on music platforms around the world. Python (Pandas) was used for data cleaning, and Power BI was used to create an interactive dashboard.
+
+## 🚀 Project Objective
+Explore music streaming trends and gain insights into listener preferences by genre, country, and other relevant metrics.
+
+## 🛠️ Tools
+- **Python (Pandas):** For data cleaning and transformation.
+- **Power BI:** For interactive visualization and data analysis.
+
+## 📊 Data Source
+The dataset used in this project comes from Kaggle, a leading platform for data analysis and machine learning. You can find it at the following link: [Worldwide Music Streaming Trends and Insights](https://www.kaggle.com/datasets/salehahmedsaleh/worldwide-music-streaming-trends-and-insights).
+
+### Dataset Details
+The dataset contains information on music streaming trends across various countries, including preferred genres, average listening duration, and other key insights.
+
+## 📋 Data Cleaning Methodology
+
+The data cleaning and transformation process was performed using Python with **Pandas** combined with **pandasql**, which allowed leveraging the convenience and familiarity of SQL directly within the Python environment. This approach was ideal for efficiently querying and manipulating the dataset.
+
+### Why Use SQL and pandasql?
+1. **Convenience and Familiarity:**  
+   SQL is a widely-used language for data manipulation, and its integration with pandasql allowed SQL queries to be applied without leaving the Python environment.
+
+2. **Advantages of Pandas:**  
+   While SQL is powerful, the versatility of Pandas allowed advanced tasks like statistical imputations and detailed transformations that are less intuitive in pure SQL.
+
+3. **Efficient Workflow:**  
+   The combination of these tools offered the best of both worlds:  
+   - SQL for quickly filtering, joining, and selecting data.  
+   - Pandas for more advanced operations, such as handling missing values, normalizing columns, and exporting the processed dataset.
+
+4. **Export to CSV:**  
+   The cleaned dataset was saved as a new CSV file (`clean_dataset.csv`), making it ready for import into Power BI while ensuring high-quality data for visualization.
+
+This methodology ensures a professional and reproducible data cleaning process by utilizing modern tools that maximize both precision and productivity.
 
 ---
 
