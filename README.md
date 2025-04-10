@@ -85,4 +85,7 @@ Esta metodología garantiza un proceso de limpieza de datos profesional y reprod
 
 🎯 Resultado del Dashboard
 Este es el resutlado de mi dashboard! Hecho en Power BI, it highlights key insights, tendencias, y metricas sacadas del dataset. Desde las preferencias de género hasta la interacción con las plataformas de streaming y comportamientos de escucha globales, este dashboard sirve como herramienta de buena comprencion para explorar tendencias del streaming de musica alrededor del mundo
-https://raw.githubusercontent.com/DylanGonFer/Music-Streaming-Preferences-Dashboard/refs/heads/main/visualizations/Dashboard.png
+🎯 Final Dashboard  
+And here’s the final result—my dashboard! Built in Power BI, it highlights key insights, trends, and metrics derived from the dataset. From genre preferences to streaming platform engagement and global listening behaviors, this dashboard serves as a comprehensive tool for exploring music streaming trends worldwide.
+
+![Dashboard Final](visualizations/Dashboard.png)
